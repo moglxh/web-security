@@ -1,0 +1,16 @@
+{
+  "fixture": true,
+  "warning": "SYNTHETIC TEST DATA — NOT A REAL VAULT",
+  "items": [
+    {
+      "name": "Example Email",
+      "username": "alice@example.invalid",
+      "password": "SYNTHETIC-ONLY-Password-001"
+    },
+    {
+      "name": "Example Lab",
+      "username": "lab-user",
+      "password": "SYNTHETIC-ONLY-Password-002"
+    }
+  ]
+}
